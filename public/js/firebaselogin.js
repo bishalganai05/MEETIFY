@@ -1,7 +1,7 @@
 // Your web app's Firebase configuration
 
 var firebaseConfig = {
-  apiKey: "AIzaSyCCbE3HGVe1B2zy_WILL4yfTEcGN10qbbw",
+  apiKey: "#",
   authDomain: "meetify-4edb9.firebaseapp.com",
   projectId: "meetify-4edb9",
   storageBucket: "meetify-4edb9.appspot.com",
