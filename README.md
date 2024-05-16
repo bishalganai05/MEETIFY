@@ -4,12 +4,8 @@ A video conferencing platform with `MEETIFY`
 using peer-to-peer connection.
 
 <p align="center">
-<a href="https://unite-apurva.herokuapp.com/landing">
-<img src="https://github.com/bishalganai05\Meetify\public\assets\images\logo\logo-1.png" alt="MEETIFY-logo"/>
-</a>
+<img src="https://github.com/bishalganai05/MEETIFY/blob/main/logo-1.png" height="150px"  alt="MEETIFY-logo"/>
 </p>
-
-[![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Demo%20Video)](https://youtu.be/OKKK1GOnlIU) 
 
 ## Features and Interfaces
 
