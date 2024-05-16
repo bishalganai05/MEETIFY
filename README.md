@@ -1,23 +1,11 @@
-# Unite - Video Conferencing Web App
-## Submission for Microsoft Engage 2021 🌟
+# MEETIFY - Video Conferencing Web App
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Apurva-tech/unite?logo=github&style=for-the-badge)](https://github.com/Apurva-tech/) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Apurva-tech/unite?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/) 
-[![GitHub stars](https://img.shields.io/github/stars/Apurva-tech/unite?style=for-the-badge)](https://github.com/Apurva-tech/unite/stargazers) 
-[![My stars](https://img.shields.io/github/stars/Apurva-tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=My%20stars)](https://github.com/Apurva-tech/unite/stargazers) 
-[![GitHub forks](https://img.shields.io/github/forks/Apurva-tech/unite?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/unite/network)
-[![Code size](https://img.shields.io/github/languages/code-size/Apurva-tech/unite?style=for-the-badge)](https://github.com/Apurva-tech/unite)
-[![Languages](https://img.shields.io/github/languages/count/Apurva-tech/unite?style=for-the-badge)](https://github.com/Apurva-tech/unite)
-[![Top](https://img.shields.io/github/languages/top/Apurva-tech/unite?style=for-the-badge&label=Top%20Languages)](https://github.com/Apurva-tech/unite)
-[![Issues](https://img.shields.io/github/issues/Apurva-tech/unite?style=for-the-badge&label=Issues)](https://github.com/Apurva-tech/unite)
-[![Watchers](	https://img.shields.io/github/watchers/Apurva-tech/unite?label=Watch&style=for-the-badge)](https://github.com/Apurva-tech/unite/) 
-
-Video conferencing solutions with `Unite`
+A video conferencing platform with `MEETIFY`
 using peer-to-peer connection.
 
 <p align="center">
 <a href="https://unite-apurva.herokuapp.com/landing">
-<img src="https://user-images.githubusercontent.com/59837325/125489372-57d3ad66-fb25-40f8-8d54-5514cbe4b648.png" alt="Unite-logo"/>
+<img src="https://github.com/bishalganai05\Meetify\public\assets\images\logo\logo-1.png" alt="MEETIFY-logo"/>
 </a>
 </p>
 
