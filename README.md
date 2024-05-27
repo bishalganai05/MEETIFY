@@ -4,24 +4,24 @@ A video conferencing platform with `MEETIFY`
 using peer-to-peer connection.
 
 <p align="center">
-<img src="https://github.com/bishalganai05/MEETIFY/blob/main/logo-1.png" height="150px"  alt="MEETIFY-logo"/>
+<img src="https://github.com/bishalganai05/MEETIFY/blob/main/images/logo-1.png" height="150px"  alt="MEETIFY-logo"/>
 </p>
 
 ## Features and Interfaces
 
 1. Landing Page and Feeback Form
    - Seamless landing page with `Login with Google` button for user Login using Firebase Authentication 
-   - ![image](https://user-images.githubusercontent.com/59837325/125426848-39db8eeb-3e84-424d-869c-5b344ba55ba1.png)
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/landing%20page.jpg)
  
-   - One of the most important part of Agile is feedback, therefore the app has a feedback form in the footer 
-   - ![image](https://user-images.githubusercontent.com/59837325/125427701-f6aed5f3-ca93-4cf7-8480-40d42b87e46b.png)
+   - One of the most important part of our project is feedback, therefore the app has a feedback form in the footer 
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/contact%20us%20page.jpg)
    
    - Witness by journey of these 4 weeks, through a concise timeline on my landing page
    - ![image](https://user-images.githubusercontent.com/59837325/125429293-88f38afe-be80-47ff-b662-2169d87bc476.png)
 
 2. Home page 
    - Has a signout button with app cards for different features and left division shows the rooms created by user as well as recent rooms visited
-   - ![image](https://user-images.githubusercontent.com/59837325/125428224-08fcf962-46af-470a-abae-aaa893d2e0c7.png)
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/Home%20page.jpg)
    
    - Toggle between dark-light using the moon icon, according to your preference
    - ![image](https://user-images.githubusercontent.com/59837325/125429518-79515f76-8392-413a-9d19-53894db9ee95.png)
