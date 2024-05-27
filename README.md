@@ -18,6 +18,9 @@ using peer-to-peer connection.
    
    - Witness by journey of these 4 weeks, through a concise timeline on my landing page
    - ![image](https://user-images.githubusercontent.com/59837325/125429293-88f38afe-be80-47ff-b662-2169d87bc476.png)
+  
+   - Features provided by our Web App
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/features%20page.jpg)
 
 2. Home page 
    - Has a signout button with app cards for different features and left division shows the rooms created by user as well as recent rooms visited
@@ -31,7 +34,7 @@ using peer-to-peer connection.
    
 3. Create Meeting
    - Create a room and invite people to join by copying the meeting code
-   - ![image](https://user-images.githubusercontent.com/59837325/125431140-7f0a92a8-ca4c-48b5-a91d-e53e69b12cb5.png)
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/create%20room%20page.jpg)
 
    - Enter the common chat room that **persist the messages** using MongoDB 
    - ![image](https://user-images.githubusercontent.com/59837325/125432255-d9e05582-5ae0-4b2f-8a07-dba9605a4b6d.png)
@@ -39,6 +42,7 @@ using peer-to-peer connection.
 4. Join Meeting
    - Enter the copied meeting ID in a form and join the room with your loved ones. 
    - ![image](https://user-images.githubusercontent.com/59837325/125438181-fd819177-cb36-45bb-a7dd-8acfa5e21b66.png)
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/Meeting%20page.jpg)
 
 5. Video calling & Persistent text chat
    - Chat with your friends, family and professional peers before, during and after the meeting. 
@@ -50,7 +54,7 @@ using peer-to-peer connection.
 
 6. Schedule Meeting 
    - Schedule Meeting with Google Calendar and invite people by just entering their email addresses and the app schedules a meet for you with a unique meeting ID as well!
-   - ![image](https://user-images.githubusercontent.com/59837325/125440936-e8d4141a-c7b8-4577-b5b0-4cba3d9e63ab.png)
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/schedule%20meeting%20page.jpg)
 
    - Mail sent on scheduling a meeting
    - ![image](https://user-images.githubusercontent.com/59837325/125441421-ee5199d3-3165-43c0-88d6-f9328477dfe2.png)
@@ -59,8 +63,16 @@ using peer-to-peer connection.
 7. AI powered posture bot
    - Using `Tf.js` posenet model, the bot notifies the user if they are sitting in a bad posture or too close to the screen. 
    - Keep your health in check and use this functionality with and without even being in a meeting
-   - ![image](https://user-images.githubusercontent.com/59837325/125442368-2b7b4202-9f07-4d9a-9122-69b221a03ef9.png)
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/AI%20bot%20detection.jpg)
 
+8. Firebase Authentication
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/google%20firebase%20authentication%20page.jpg)
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/google%20sign%20in%20page.jpg)
+
+9. Backend powered by MongoDB integration
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/database%20page.jpg)
+  
+     
 ## Tech stack
 
 ![image](https://user-images.githubusercontent.com/59837325/125461960-da7d575b-b1e8-43f4-ae22-6f3403df44d1.png)
