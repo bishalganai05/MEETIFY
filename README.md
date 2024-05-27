@@ -42,12 +42,11 @@ using peer-to-peer connection.
 4. Join Meeting
    - Enter the copied meeting ID in a form and join the room with your loved ones. 
    - ![image](https://user-images.githubusercontent.com/59837325/125438181-fd819177-cb36-45bb-a7dd-8acfa5e21b66.png)
-   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/Meeting%20page.jpg)
-
+     
 5. Video calling & Persistent text chat
    - Chat with your friends, family and professional peers before, during and after the meeting. 
    - ![image](https://user-images.githubusercontent.com/59837325/125486957-00bbd600-02ea-4f4f-b040-fc5d25db3251.png)
-   - ![image](https://user-images.githubusercontent.com/59837325/125486640-4ff2bdb8-b2ec-40f8-96c1-4dbdae007af3.png)
+   - ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/Meeting%20page.jpg)
    
    - Screen Share options
    - ![image](https://user-images.githubusercontent.com/59837325/125486807-1b603597-eb1d-4758-9cb2-d1d34f8462c4.png)
