@@ -4,7 +4,7 @@
 This project is intended to be our final semester project for the B.Tech program. It provides a comprehensive video conferencing solution with a focus on ease of use, security, and scalability. Developing Meetify allows us to showcase our skills in web development, communication protocols, and potential security best practices.
 
 ## Project Description
-Meetify is a web-based video conferencing application designed to address the challenges of remote work and social distancing brought on by the COVID-19 pandemic. It offers a user-friendly platform for individuals, businesses, and educational institutions to connect, collaborate, and celebrate virtually.
+Meetify is a web-based video conferencing application designed to address the challenges of remote work and social distancing. It offers a user-friendly platform for individuals, businesses, and educational institutions to connect, collaborate, and celebrate virtually.
 
 A video conferencing platform with `MEETIFY`
 using peer-to-peer connection.
