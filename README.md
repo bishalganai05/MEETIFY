@@ -1,5 +1,11 @@
 # MEETIFY - Video Conferencing Web App
 
+## Project Overview
+This project is intended to be our final semester project for the B.Tech program. It provides a comprehensive video conferencing solution with a focus on ease of use, security, and scalability. Developing Meetify allows us to showcase our skills in web development, communication protocols, and potential security best practices.
+
+## Project Description
+Meetify is a web-based video conferencing application designed to address the challenges of remote work and social distancing brought on by the COVID-19 pandemic. It offers a user-friendly platform for individuals, businesses, and educational institutions to connect, collaborate, and celebrate virtually.
+
 A video conferencing platform with `MEETIFY`
 using peer-to-peer connection.
 
@@ -7,7 +13,24 @@ using peer-to-peer connection.
 <img src="https://github.com/bishalganai05/MEETIFY/blob/main/images/logo-1.png" height="150px"  alt="MEETIFY-logo"/>
 </p>
 
-## Features and Interfaces
+## Features
+- Easy to Use: Web-based interface allows users to join meetings from any device, anywhere, without downloads.
+- Seamless Meetings: Create, schedule, and join meetings with ease using intuitive features.
+- Rich Collaboration: High-quality audio and video, screen sharing, and chat functionality facilitate effective communication and teamwork.
+- Enhanced Security: End-to-end encryption ensures the privacy and security of all meetings.
+
+## Benefits
+- Business Continuity: Meetify empowers businesses and educational institutions to maintain productivity through virtual meetings, presentations, and training sessions.
+- Global Connection: Stay connected with friends, family, colleagues, and clients regardless of location.
+- Virtual Events: Host virtual parties, game nights, and even weddings for a safe and convenient way to celebrate.
+
+## Target Users
+- Remote teams
+- Educational institutions
+- Businesses
+- Individuals and families
+
+## More about Features and Interfaces
 
 1. Landing Page and Feeback Form
    - Seamless landing page with `Login with Google` button for user Login using Firebase Authentication 
