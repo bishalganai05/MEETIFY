@@ -17,7 +17,7 @@ using peer-to-peer connection.
      ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/contact%20us%20page.jpg)
    
    - Witness by journey of these 4 weeks, through a concise timeline on my landing page
-     ![image](https://user-images.githubusercontent.com/59837325/125429293-88f38afe-be80-47ff-b662-2169d87bc476.png)
+     ![image](https://github.com/bishalganai05/MEETIFY/blob/main/Images2/image09.png)
   
    - Features provided by our Web App
      ![image](https://github.com/bishalganai05/MEETIFY/blob/main/images/features%20page.jpg)
