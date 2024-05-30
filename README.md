@@ -98,7 +98,7 @@ using peer-to-peer connection.
 
 ## Need help?
 
-Feel free to contact me on [LinkedIn](www.linkedin.com/in/bishal-ganai-a67264274/) 
+Feel free to contact me on [LinkedIn](www.linkedin.com/in/bishal-ganai-a67264274) 
 
 
 
